@@ -1,4 +1,4 @@
-# Enhanced Job Context &nbsp; [![Actions](https://img.shields.io/badge/qoomon-GitHub%20Actions-blue)](https://github.com/qoomon/actions) [![starline](https://starlines.qoo.monster/assets/qoomon/actions--context)](https://github.com/qoomon/starlines)
+# Enhanced Job Context &nbsp; [![Actions](https://img.shields.io/badge/qoomon-GitHub%20Actions-blue)](https://github.com/qoomon/actions) [![starline](https://raw.githubusercontent.com/qoomon/qoomon/refs/heads/main/starlines/qoomon/actions--context/starline.svg)](https://github.com/qoomon/starlines)
 
 
 This action provides additinal contextual job informations like the current **job id**, **environment**, **deployment url** and more.
